@@ -1,0 +1,10 @@
+5 5 : Mr. Green
+6 5 : Mr. Red
+6 6 : Mr. Green
+7 5 : Mr. Red
+7 7 : Mr. Green
+8 6 : Mr. Red
+8 8 : Mr. Green
+9 7 : Mr. Red
+9 9 : Mr. Green
+Fin de la partie ! Mr. Green est vainqueur !
